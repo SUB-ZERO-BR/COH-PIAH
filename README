@@ -1,0 +1,3 @@
+Criei um programa em Python que permite a uma “vítima” jogar o jogo COH-PIAH contra o computador deve seguir uma estratégia vencedora baseada em traços linguísticos do texto,
+como tamanho médio de palavra, relação Type-Token, razão Hapax Legomana, tamanho médio de sentença, complexidade de sentença e tamanho médio de frase.
+O objetivo do exercício é detectar a doença COH-PIAH, que faz com que indivíduos contaminados produzam involuntariamente textos muito semelhantes aos de outras pessoas. 
